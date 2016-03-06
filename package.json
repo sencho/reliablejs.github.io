@@ -1,0 +1,19 @@
+{
+  "name": "reliablejs.github.io",
+  "version": "1.0.0",
+  "description": "Distributed reliable continuous integration service",
+  "keywords": [
+    "reliable"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:reliablejs/reliablejs.github.io.git"
+  },
+  "devDependencies": {
+    "startserver": "~1.2.2"
+  },
+  "author": "xudafeng",
+  "email": "xudafeng@126.com",
+  "blog": "http://xdf.me",
+  "license": "MIT"
+}
